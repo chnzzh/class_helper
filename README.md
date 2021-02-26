@@ -1,7 +1,7 @@
 # class_helper
 
-本项目旨在搭建一个基于人脸识别技术的听课状态检测装置。
-+ 项目语言：python3
+本项目旨在搭建一个基于人脸识别技术的听课状态检测装置，通过检测人脸和人眼开合判断上课状态。
++ 项目语言：python3https://github.com/chnzzh/class_helper/blob/master/README.md
 + 实验系统：Linux、Windows
 + 实验设备：树莓派、带有摄像头的Windows笔记本
 + 第三方库：opencv-python、flask
